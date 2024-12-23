@@ -6,7 +6,6 @@ build/
 lib/
 gradle/
 out/
-*.ts
 src/main/resources/stitched/
 PipeWrench_Java_Typings.jar
 PipeWrench_Java_Typings/
@@ -16,3 +15,6 @@ bin
 **/.DS_Store
 lua/
 candle.lua
+serialize.lua
+node_modules
+dist-ts/

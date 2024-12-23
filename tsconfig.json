@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "lib": ["ESNext"],
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "outDir": "dist-ts",
+    "rootDir": "src-ts",
+    "strict": true,
+    "target": "ESNext",
+  },
+  "include": ["**/*.ts"]
+}
